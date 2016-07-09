@@ -1,6 +1,6 @@
 main()
 {
  int arry[10];
- int arryb[20];
+ int arryb[10];
 
 }
